@@ -36,7 +36,7 @@ MIT
 
 ## Links
 - [GitHub-Repo](https://github.com/alexiskeet/Redux-Shop-Shop.git)
-- [Live-Site](N/A)
+- [Live-Site](https://redux-shop-shop.herokuapp.com/)
 
 
 ## Video
